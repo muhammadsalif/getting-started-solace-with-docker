@@ -1,4 +1,4 @@
-const solace = require('solace');
+const solace = require('solclientjs');
 
 solace.SolclientFactory.init({
   profile: solace.SolclientFactoryProfiles.version10,

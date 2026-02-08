@@ -11,6 +11,6 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "solace": "^1.2.0"
+    "solclientjs": "^10.0.0"
   }
 }
